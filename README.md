@@ -1,6 +1,6 @@
 # FINANCE DATA AND DATA GENERATION USING SMOTE
 ## please kindly check the documentation for the models which been used
-https://drive.google.com/file/d/1vP_MvVPYyO8VLSW8Tcht8JMAslz0Ybj3/view?usp=sharing
+https://drive.google.com/drive/folders/1NKlWAZoyaoXjtTS4-QKI0uGTU4fXy36z?usp=sharing
 
 This repository contains the code and analysis for a dataset used to predict a binary target variable (`bad_flag`). The dataset includes various features related to account transactions and attributes. Below is a detailed analysis of the dataset and the steps taken to build and evaluate predictive models.
 
